@@ -1,0 +1,14 @@
+{
+	"name": "Api",
+	"description": "Croogo - API",
+
+	"author": "rchavik@xintesa.com",
+	"authorEmail": "oss@xintesa.com",
+	"authorUrl": "http://xintesa.com",
+
+	"dependencies": {
+		"plugins": [
+			"OAuth"
+		]
+	}
+}
